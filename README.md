@@ -1,4 +1,4 @@
-# Airline-company-
+# Airline-company case study
 State the processes bus matrix for your company then apply dimensional modeling process to design the logical and physical design to support such kind of analysis for decision support.
 Identify Bus matrix for your business processes against common dimensions
 State the dimensional modeling process for each business process
